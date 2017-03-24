@@ -117,6 +117,8 @@ LOG_SCREEN.append("Viber")
 LOG_SCREEN.append("weed")
 LOG_SCREEN.append("whatsapp")
 LOG_SCREEN.append("yokes")
+# Only a small portion of the keyword list. 
+# Add your own if required
 
 
 
